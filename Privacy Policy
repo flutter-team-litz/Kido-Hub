@@ -1,0 +1,58 @@
+Privacy Policy
+Kido Hub
+Effective date: 14 November 2026
+1. Introduction
+Litz Tech ("we", "us") provides the Kido Hub mobile app ("the App"). The App is used by registered child-development, therapy and paediatric centres ("Centres") to manage their profile, doctors, news and appointment requests from families. This policy explains what information the App collects, how it is used and the choices you have. The App is intended for adult Centre staff and is not directed at children.
+2. Information we collect
+a) Information you provide
+•	Centre name, category (Therapy, Pediatrician or Physiatrist), phone number and email address.
+•	Login credentials. Sign-in is handled by Firebase Authentication.
+•	Centre location (address and map coordinates), profile and bio images, and news you publish.
+•	Doctor names and working hours that you add.
+b) Location (optional)
+If you choose to use your current location in the map picker, the App asks for permission and uses your device location only to set the Centre's location and address. We do not track your location in the background.
+c) Photos (optional)
+If you choose a picture from your gallery for your profile or bio, the App accesses only the image you select.
+d) Appointment and family information
+When a parent requests an appointment with your Centre through our parent app, the App shows your Centre the following information: the parent's name, phone number, email, district and state; the child's name, date of birth and gender; the appointment details (doctor, date, time); and the child's screening or assessment results recorded in the parent app. After you accept an appointment, the App keeps a summary of the parent (name, contact details and latest appointment) in your Centre's account.
+e) Information stored on your device
+Your light or dark theme choice is stored locally on your device.
+f) Technical information
+The Google services used by the App (Firebase and Google Maps) may automatically process technical data such as IP address, device identifiers and diagnostics, as described in Google's privacy policy.
+3. How we use information
+•	To create and verify your account (including email verification) and to let our administrators approve Centres.
+•	To show your Centre profile, doctors and news to parents in the parent app.
+•	To manage doctors, appointment requests and the list of families who booked with your Centre.
+•	To let your Centre view the child's profile and results so it can provide care.
+•	To keep the App secure, prevent misuse and meet legal obligations.
+We do not sell your personal information and we do not use it for advertising.
+4. How information is shared
+•	Service providers: Google Firebase (Authentication and Cloud Firestore) and Google Maps Platform, which process data on our behalf to run the App.
+•	Parents using our parent app: your Centre's public details (name, category, address, location, phone number, doctor timings and news).
+•	Our administrators: to review and approve Centres.
+•	Legal reasons: when required by law or to protect rights and safety.
+The App also requests a public holiday list from a public web service (date.nager.at). No personal information is sent, other than the technical data any internet request includes, such as your IP address. When you tap call, WhatsApp, email or share, the App opens another app that follows its own privacy policy.
+5. Children's information
+The App is for Centre staff and is not directed at children. Children's information (name, date of birth, gender and assessment results) is entered by parents in our parent app and is shown to a Centre only in connection with an appointment request. Centres must use this information only to provide care and must keep it confidential. We do not knowingly collect information directly from children in this App.
+6. Data retention
+We keep your information while your account is active. When you ask us to delete your account, we delete your Centre profile and related data within [30] days, except where we must keep some information to meet legal obligations or resolve disputes.
+7. Account and data deletion
+You can update your Centre details in the App at any time. To delete your account and data, email [support email] from your registered email address with the subject "Delete my account". We will confirm and complete the deletion within [30] days.
+8. Your rights
+You may ask to access, correct or delete your personal information. If you are in India, you may have rights under the Digital Personal Data Protection Act, 2023. If you are in the European Economic Area or the United Kingdom, you may have rights under applicable data protection law. Contact us using the details below to make a request.
+9. Permissions the App may request
+•	Internet: to connect to our servers.
+•	Location (optional): to set your Centre location on the map.
+•	Photos (optional): to choose a profile or bio image through the system picker.
+10. Security
+Data is sent over encrypted (HTTPS) connections and stored on Google Cloud, which encrypts data at rest. Access is limited through Firebase Authentication and security rules. No method of storage or transmission is completely secure, so we cannot guarantee absolute security.
+11. International transfers
+Google's servers that host the App's data may be located outside your country. By using the App you understand that your information may be processed in other countries.
+12. Changes to this policy
+We may update this policy from time to time. The latest version will always be available at this page, with the effective date shown at the top.
+13. Contact us
+Litz Tech
+65/14, Srinagar, BR Puram, Peelamedu, Coimbatore - 641004, Tamilnadu, India,
+Email: suryalitztech@gmail.com
+Website: https://litztech.in
+© 2026 Litz Tech. All rights reserved.
